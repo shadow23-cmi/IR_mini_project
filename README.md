@@ -1,12 +1,12 @@
 # IR_mini_project
 ## Modified Front Coding with variable Blocking factor
-Abstract
+### Abstract
 We know the importance of text compression in Information Retrieval. We are
 dealing with huge databases and thus the more space we save, the better. While
 front coding, there can be many instances where we can save space just by
 having a variable block length. In this project we aim to attain a better
 compression algorithm while front coding using the idea of variable block length.
-1. Introduction
+### Introduction
 Dictionary as a string instead of a dictionary as an array is one of many ways to
 improve the space complexity of postings list. We can exploit the fact that
 consecutive entries in an alphabetically sorted list share common prefixes, for
